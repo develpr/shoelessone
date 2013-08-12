@@ -1,0 +1,49 @@
+17:00:49: Backup started on Sunday August 11, 2013.
+17:00:49: Your time limit is 120 seconds and your memory limit is 128M
+17:02:54: Creating SQL backup of your WordPress core.
+17:02:54: Creating SQL backup of your WordPress plugins.
+17:03:01: Approximately 3% complete.
+Uploaded Files:[{"file":"shoelessone_blog-backup-core.sql","mtime":1376265774},{"file":"shoelessone_blog-backup-plugins.sql","mtime":1376265774},{"file":"9445240464_1bebb8d38c_k-1024x768.jpg","mtime":1375834390}]
+17:03:07: Approximately 3% complete.
+Uploaded Files:[{"file":"9443519771_3065d1b7b1_h-768x1024.jpg","mtime":1375834377},{"file":"9446334730_460acf2b4d_b-150x150.jpg","mtime":1375834408},{"file":"cover-900x273.jpg","mtime":1376241300},{"file":"dfafsad-900x243.jpg","mtime":1376253478},{"file":"9446343310_078ce50688_h-666x500.jpg","mtime":1375834415}]
+17:03:14: Approximately 3% complete.
+Uploaded Files:[{"file":"9445264634_8e6af9cc64_h-150x150.jpg","mtime":1375834422},{"file":"9445264634_8e6af9cc64_h-666x500.jpg","mtime":1375834422},{"file":"dfafsad.jpg","mtime":1376253478},{"file":"9445296064_c9a9afc125_k-666x500.jpg","mtime":1375834341},{"file":"9443562117_7274fc650f_h-666x500.jpg","mtime":1375834358}]
+17:03:20: Approximately 3% complete.
+Uploaded Files:[{"file":"9446343310_078ce50688_h.jpg","mtime":1375834415},{"file":"9445286918_9f0c855d58_h.jpg","mtime":1375834400},{"file":"9445593300_2cee5bde8b_b-150x150.jpg","mtime":1375834404}]
+17:03:26: Approximately 4% complete.
+Uploaded Files:[{"file":"9442512857_df9117ef60_h-150x150.jpg","mtime":1375834428},{"file":"9443498045_2a1a81c81d_h-768x1024.jpg","mtime":1375834368},{"file":"9442487409_60cf67c0b3_h-150x150.jpg","mtime":1375834315},{"file":"9442827171_1fd2e5af24_b.jpg","mtime":1375834361}]
+17:03:33: Approximately 4% complete.
+Uploaded Files:[{"file":"Screen-Shot-2013-08-06-at-5.08.38-PM.png","mtime":1375835606}]
+17:03:39: Approximately 4% complete.
+Uploaded Files:[{"file":"Screen-Shot-2013-08-06-at-5.08.38-PM-1024x215.png","mtime":1375835606},{"file":"9446334730_460acf2b4d_b-666x500.jpg","mtime":1375834408},{"file":"Screen-Shot-2013-08-06-at-4.35.38-PM.png","mtime":1375834346}]
+17:03:46: Approximately 4% complete.
+Uploaded Files:[{"file":"cover.jpg","mtime":1376241299},{"file":"9442837077_a00dbbb070_h-768x1024.jpg","mtime":1375834354},{"file":"9445598222_5da4306369_h.jpg","mtime":1375834434},{"file":"9445240464_1bebb8d38c_k-666x500.jpg","mtime":1375834390}]
+17:03:54: Approximately 4% complete.
+Uploaded Files:[{"file":"9445593300_2cee5bde8b_b-375x500.jpg","mtime":1375834404},{"file":"9445296064_c9a9afc125_k-1024x768.jpg","mtime":1375834341},{"file":"9442827171_1fd2e5af24_b-666x500.jpg","mtime":1375834361},{"file":"9445296064_c9a9afc125_k.jpg","mtime":1375834340}]
+17:04:01: Approximately 5% complete.
+Uploaded Files:[{"file":"9443498045_2a1a81c81d_h-375x500.jpg","mtime":1375834368},{"file":"Screen-Shot-2013-08-06-at-4.35.38-PM-1024x571.png","mtime":1375834347},{"file":"9445264634_8e6af9cc64_h.jpg","mtime":1375834422}]
+17:04:07: Approximately 5% complete.
+Uploaded Files:[{"file":"dfafsad-150x150.jpg","mtime":1376253478},{"file":"9445296064_c9a9afc125_k-150x150.jpg","mtime":1375834341},{"file":"9443519771_3065d1b7b1_h.jpg","mtime":1375834376},{"file":"9443498045_2a1a81c81d_h-150x150.jpg","mtime":1375834368}]
+17:04:13: Approximately 5% complete.
+Uploaded Files:[{"file":"9442487409_60cf67c0b3_h.jpg","mtime":1375834315},{"file":"9446343310_078ce50688_h-150x150.jpg","mtime":1375834415},{"file":"9445286918_9f0c855d58_h-768x1024.jpg","mtime":1375834401}]
+17:04:19: Approximately 6% complete.
+Uploaded Files:[{"file":"9445286918_9f0c855d58_h-150x150.jpg","mtime":1375834400},{"file":"9442837077_a00dbbb070_h.jpg","mtime":1375834353},{"file":"9443562117_7274fc650f_h-1024x768.jpg","mtime":1375834358},{"file":"9442827171_1fd2e5af24_b-150x150.jpg","mtime":1375834361}]
+17:04:25: Approximately 6% complete.
+Uploaded Files:[{"file":"Screen-Shot-2013-08-06-at-4.35.38-PM-896x500.png","mtime":1375834347},{"file":"9443519771_3065d1b7b1_h-375x500.jpg","mtime":1375834376},{"file":"Screen-Shot-2013-08-06-at-5.08.38-PM-150x150.png","mtime":1375835606},{"file":"9442487409_60cf67c0b3_h-1024x325.jpg","mtime":1375834316}]
+17:04:31: Approximately 6% complete.
+Uploaded Files:[{"file":"Screen-Shot-2013-08-06-at-5.08.38-PM-900x189.png","mtime":1375835606},{"file":"9445286918_9f0c855d58_h-375x500.jpg","mtime":1375834400},{"file":"9442512857_df9117ef60_h-666x500.jpg","mtime":1375834428},{"file":"9443519771_3065d1b7b1_h-150x150.jpg","mtime":1375834376}]
+17:04:39: Approximately 6% complete.
+Uploaded Files:[{"file":"9445240464_1bebb8d38c_k.jpg","mtime":1375834389},{"file":"9442512857_df9117ef60_h.jpg","mtime":1375834428}]
+17:04:46: Approximately 7% complete.
+Uploaded Files:[{"file":"9442512857_df9117ef60_h-1024x768.jpg","mtime":1375834428},{"file":"9442487409_60cf67c0b3_h-900x285.jpg","mtime":1375834315},{"file":"9442837077_a00dbbb070_h-375x500.jpg","mtime":1375834353},{"file":"cover-1024x311.jpg","mtime":1376241300},{"file":"9446343310_078ce50688_h-1024x768.jpg","mtime":1375834415}]
+17:04:53: Approximately 7% complete.
+Uploaded Files:[{"file":"cover-150x150.jpg","mtime":1376241299},{"file":"9445598222_5da4306369_h-768x1024.jpg","mtime":1375834435},{"file":"9445264634_8e6af9cc64_h-1024x768.jpg","mtime":1375834422},{"file":"9445593300_2cee5bde8b_b.jpg","mtime":1375834404}]
+17:04:59: Approximately 7% complete.
+Uploaded Files:[{"file":"Screen-Shot-2013-08-06-at-4.35.38-PM-150x150.png","mtime":1375834346},{"file":"9443498045_2a1a81c81d_h.jpg","mtime":1375834368},{"file":"9446334730_460acf2b4d_b.jpg","mtime":1375834408}]
+17:05:05: Approximately 7% complete.
+Uploaded Files:[{"file":"9443562117_7274fc650f_h-150x150.jpg","mtime":1375834358},{"file":"9445240464_1bebb8d38c_k-150x150.jpg","mtime":1375834389},{"file":"9445598222_5da4306369_h-375x500.jpg","mtime":1375834435},{"file":"9445598222_5da4306369_h-150x150.jpg","mtime":1375834435}]
+17:05:15: Approximately 8% complete.
+Uploaded Files:[{"file":"9443562117_7274fc650f_h.jpg","mtime":1375834358},{"file":"9442837077_a00dbbb070_h-150x150.jpg","mtime":1375834353},{"file":"sitemap.xml","mtime":1376260822}]
+17:05:17: Backup complete.
+17:05:17: A total of 278 files were processed.
+17:05:17: A total of 5MB of memory was used to complete this backup.

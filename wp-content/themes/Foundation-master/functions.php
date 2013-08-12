@@ -320,11 +320,11 @@ function foundation_excerpt($text) {
                 $text = str_replace('\]\]\>', ']]&gt;', $text);
                 $text = preg_replace('@<script[^>]*?>.*?</script>@si', '', $text);
                 $text = strip_tags($text, '<p>');
-                $excerpt_length = 80;
+                $excerpt_length = 120;
                 $words = explode(' ', $text, $excerpt_length + 1);
                 if (count($words)> $excerpt_length) {
                         array_pop($words);
-                        array_push($words, '<br><br><a href="'.get_permalink($post->ID) .'" class="button secondary small">' . __('Continue Reading', 'foundation') . '</a>');
+                        array_push($words, '...<br><br><a href="'.get_permalink($post->ID) .'" class="button secondary small">' . __('Continue Reading', 'foundation') . '</a>');
                         $text = implode(' ', $words);
                 }
         }
